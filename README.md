@@ -2,7 +2,7 @@
 
 ## **Project Description**
 
-♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A comprehensive mobile fitness application designed to provide personalized workout plans and track health metrics.
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A comprehensive mobile fitness application designed to provide personalized workout plans and track health metrics
 
 ![App Cover](https://github.com/hwb06/Flutter_Fitness_App_UI/blob/main/assets/AppUI_Screenshots/Active%20Fitness%20Cover.JPG)
 
